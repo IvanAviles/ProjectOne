@@ -1,0 +1,21 @@
+{
+  "name": "My First Bootstrap",
+  "homepage": "https://github.com/IvanAviles/ProjectOne",
+  "authors": [
+    "IvanAviles <imartur12@gmail.com>"
+  ],
+  "description": "first practice",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
